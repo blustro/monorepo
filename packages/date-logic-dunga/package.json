@@ -11,5 +11,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bruno Lustro",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "42db618445eeb515126ce1a8baf1dbaa0f966003"
 }
