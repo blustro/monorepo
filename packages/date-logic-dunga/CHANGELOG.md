@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.6](https://npm.pkg.github.com/blustro/monorepo/compare/@blustro/date-logic-dunga@2.0.5...@blustro/date-logic-dunga@2.0.6) (2023-04-13)
+
+
+### Bug Fixes
+
+* **root:** working2? ([a36b295](https://npm.pkg.github.com/blustro/monorepo/commit/a36b2955be93be12ba26d1cbad913e755021a382))
+
+
+
+
+
 ## [2.0.5](https://npm.pkg.github.com/blustro/monorepo/compare/@blustro/date-logic-dunga@2.0.4...@blustro/date-logic-dunga@2.0.5) (2023-04-13)
 
 
