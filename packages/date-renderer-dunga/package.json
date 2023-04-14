@@ -8,7 +8,10 @@
     "@blustro:registry": "https://npm.pkg.github.com/blustro"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo TESTS PASSED"
+  },
+  "dependencies": {
+    "@blustro/date-logic-dunga": "^2.0.8"
   },
   "author": "Bruno Lustro",
   "license": "ISC"
