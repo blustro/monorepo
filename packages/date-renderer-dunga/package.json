@@ -10,6 +10,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "@blustro/date-logic-dunga": "^2.0.8"
+  },
   "author": "Bruno Lustro",
   "license": "ISC"
 }
