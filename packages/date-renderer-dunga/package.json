@@ -8,7 +8,7 @@
     "@blustro:registry": "https://npm.pkg.github.com/blustro"
   },
   "scripts": {
-    "test": "echo TESTS PASSED!"
+    "test": "echo TESTS PASSED!!!"
   },
   "dependencies": {
     "@blustro/date-logic-dunga": "^2.2.1"
