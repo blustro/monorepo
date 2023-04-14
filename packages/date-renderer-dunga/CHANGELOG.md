@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.4.2](https://npm.pkg.github.com/blustro/monorepo/compare/@blustro/date-renderer-dunga@2.4.1...@blustro/date-renderer-dunga@2.4.2) (2023-04-14)
+
+
+### Bug Fixes
+
+* **date-renderer:** replaced lerna publish again ([136ef11](https://npm.pkg.github.com/blustro/monorepo/commit/136ef114b645781ee40e42046f08d188e6a04332))
+
+
+
+
+
 ## [2.4.1](https://npm.pkg.github.com/blustro/monorepo/compare/@blustro/date-renderer-dunga@2.1.1...@blustro/date-renderer-dunga@2.4.1) (2023-04-14)
 
 **Note:** Version bump only for package @blustro/date-renderer-dunga
