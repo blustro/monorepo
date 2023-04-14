@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.3.0](https://npm.pkg.github.com/blustro/monorepo/compare/@blustro/date-renderer-dunga@2.2.1...@blustro/date-renderer-dunga@2.3.0) (2023-04-14)
+
+
+### Features
+
+* **date-renderer:** test script updated 3 ([f047914](https://npm.pkg.github.com/blustro/monorepo/commit/f04791415b2e6cc2512012b1bcfb2a27efad0652))
+
+
+
+
+
 ## [2.2.1](https://npm.pkg.github.com/blustro/monorepo/compare/@blustro/date-renderer-dunga@2.2.0...@blustro/date-renderer-dunga@2.2.1) (2023-04-14)
 
 **Note:** Version bump only for package @blustro/date-renderer-dunga
