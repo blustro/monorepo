@@ -34,14 +34,13 @@ jobs:
           git config user.name "${{ github.actor }}"
           git config user.email "${{ github.actor}}@users.noreply.github.com"
 
-          npm whoami
           git stash
           git checkout ${{ github.ref }}
 
           if [ ${{ github.base_ref }} = development ]; then
-            lerna version --conventional-commits --conventional-prerelease --preid beta --yes
+            npx lerna version --conventional-commits --conventional-prerelease --preid beta --yes
           else
-            lerna version --conventional-commits --conventional-graduate --yes
+            npx lerna version --conventional-commits --conventional-graduate --yes
           fi
 
-          lerna publish from-git --yes
+          npx lerna publish from-git --yes
