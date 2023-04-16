@@ -1,9 +1,15 @@
 name: Publish
 
-on: push
+on:
+  pull_request:
+    types: [closed]
+    branches:
+      - development
+      - main
 
 jobs:
   publish:
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
 
     steps:
