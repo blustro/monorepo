@@ -21,7 +21,7 @@ jobs:
       - name: "Use NodeJS 16"
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: "16"
 
       - name: "Setup npm"
         run: |
@@ -33,14 +33,14 @@ jobs:
         run: |
           git config user.name "${{ github.actor }}"
           git config user.email "${{ github.actor}}@users.noreply.github.com"
-          
+
           git stash
           git checkout ${{ github.ref }}
-          
+
           if [ ${{ github.base_ref }} = development ]; then
             npx lerna version --conventional-commits --conventional-prerelease --preid beta --yes
           else
             npx lerna version --conventional-commits --conventional-graduate --yes
           fi
-          
+
           npx lerna publish from-package --yes
