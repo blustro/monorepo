@@ -1,0 +1,15 @@
+{
+  "name": "@blustro/test-dunga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://npm.pkg.github.com/blustro/monorepo",
+  "publishConfig": {
+    "@blustro:registry": "https://npm.pkg.github.com/blustro"
+  },
+  "scripts": {
+    "test": "echo TESTS PASSED"
+  },
+  "author": "Bruno Lustro",
+  "license": "ISC"
+}
