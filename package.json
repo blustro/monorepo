@@ -18,7 +18,7 @@
   "homepage": "https://github.com/blustro/monorepo#readme",
   "dependencies": {
     "@blustro/date-logic-dunga": "^1.0.0",
-    "lerna": "^6.6.1"
+    "lerna": "^4.0.0"
   },
   "workspaces": [
     "packages/*"
