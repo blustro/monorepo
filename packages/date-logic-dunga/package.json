@@ -11,6 +11,5 @@
     "test": "echo TESTS PASSED??"
   },
   "author": "Bruno Lustro",
-  "license": "ISC",
-  "gitHead": "716dedac04ef7070f03e91eccc50975fe26a6b90"
+  "license": "ISC"
 }
