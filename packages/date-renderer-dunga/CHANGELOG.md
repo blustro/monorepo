@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.4.5](https://npm.pkg.github.com/blustro/monorepo/compare/@blustro/date-renderer-dunga@2.4.4...@blustro/date-renderer-dunga@2.4.5) (2023-04-16)
+
+**Note:** Version bump only for package @blustro/date-renderer-dunga
+
+
+
+
+
+## [2.4.4](https://npm.pkg.github.com/blustro/monorepo/compare/@blustro/date-renderer-dunga@2.4.3...@blustro/date-renderer-dunga@2.4.4) (2023-04-16)
+
+**Note:** Version bump only for package @blustro/date-renderer-dunga
+
+
+
+
+
 ## [2.4.3](https://npm.pkg.github.com/blustro/monorepo/compare/@blustro/date-renderer-dunga@2.4.2...@blustro/date-renderer-dunga@2.4.3) (2023-04-14)
 
 

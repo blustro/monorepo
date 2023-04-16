@@ -1,6 +1,6 @@
 {
   "name": "@blustro/date-logic-dunga",
-  "version": "2.2.1",
+  "version": "2.2.3",
   "description": "",
   "main": "index.js",
   "repository": "https://npm.pkg.github.com/blustro/monorepo",
@@ -9,6 +9,7 @@
   },
   "scripts": {
     "test": "echo TESTS PASSED!?"
+
   },
   "author": "Bruno Lustro",
   "license": "ISC",
