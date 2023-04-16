@@ -8,7 +8,7 @@
     "@blustro:registry": "https://npm.pkg.github.com/blustro"
   },
   "scripts": {
-    "test": "echo TESTS PASSED!!"
+    "test": "echo TESTS PASSED!!?"
   },
   "author": "Bruno Lustro",
   "license": "ISC",
