@@ -1,6 +1,6 @@
 {
   "name": "@blustro/date-renderer-dunga",
-  "version": "2.4.12",
+  "version": "2.4.13",
   "description": "",
   "main": "index.js",
   "repository": "https://npm.pkg.github.com/blustro/monorepo",
@@ -11,7 +11,7 @@
     "test": "echo TESTS PASSED?"
   },
   "dependencies": {
-    "@blustro/date-logic-dunga": "^2.2.9"
+    "@blustro/date-logic-dunga": "^2.2.10"
   },
   "author": "Bruno Lustro",
   "license": "ISC"
